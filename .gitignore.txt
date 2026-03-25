@@ -1,0 +1,6 @@
+extrator_visitas.py
+resultado.xlsx
+matricu.xls
+matriculados.xlsx
+resultado_final_dashboard.xlsx
+visitantes extraídos.csv
